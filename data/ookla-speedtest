@@ -12,8 +12,12 @@ webtest.net
 
 full:www.speedtest.net.cdn.cloudflare.net
 
-include:ookla-speedtest-ads
-
 # SpeedTest Node
 ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+<<<<<<< HEAD
 speedtestbb.hk.chinamobile.com # CMHK Boardband 中国移动香港
+=======
+
+# Ads/tracking
+regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$ @ads
+>>>>>>> upstream/master
