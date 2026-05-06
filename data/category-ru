@@ -7,6 +7,7 @@ include:category-betting-ru
 include:category-ecommerce-ru
 include:category-entertainment-ru
 include:category-gov-ru
+include:category-media-ru
 include:category-medicine-ru
 include:category-retail-ru
 include:category-travel-ru
@@ -15,7 +16,13 @@ include:category-travel-ru
 include:beget
 include:carrotquest
 include:cdek
+include:comssone
+include:envybox
+include:genotek-ru
+include:gismeteo
+include:group-ib
 include:headhunter
+include:ideco-ru
 include:kaspersky
 include:kontur
 include:mailru-group
@@ -51,38 +58,13 @@ nspk.ru
 netmonet.co
 tips.tips
 
-# Media
-# NOT include category-media-ru, it's for media blocked in Russia now.
-russiatoday.com
-rteam.tech   # IT company owned by RT's parent org (ANO TV-Novosti)
-shop-rt.com  # RT merchandise store
-swentr.site  # RT mirror domain
-
 # Telecom operators
+include:megafon
+include:mts-ru
+include:rostelecom
+include:t2-ru
 beeline.ru
 dom.ru
-mts.ru
-mymts.ru
-rostelecom.ru
-rt.ru
-t2.ru
-tele2.ru
-
-## Megafon
-inplat.ru
-megafon.com
-megafon.ru
-megafonpro.ru
-mgfn.ru
-report-megafon.ru
-scartel.ru
-yota.ru
-yotagamer.ru
-
-### IDN ccTLD
-xn--80a9a4b.xn--p1ai # ёта.рф
-xn--80aj3b.xn--p1ai # ета.рф
-xn--80arpq.xn--p1ai # йота.рф
 
 # Other domains
 apptrackpets.com # Pet GPS tracker service (Yandex Cloud, reg.ru)
@@ -98,41 +80,10 @@ t1.cloud         # Russian cloud storage provider
 taxsee.com       # Taxi for business (self-employed drivers)
 
 # Other services
-3ebra.net         # Zebra Net Bureau, web development agency
-envybox.io @ads   # Website conversion widgets
-flomni.com        # Omnichannel communications platform
-flocktory.com @ads # Marketing personalization platform
-gismeteo.net      # Gismeteo weather service
-gismeteo.st       # Gismeteo weather service
-group-ib.com      # Group-IB cybersecurity company
-kinescopecdn.net  # Kinescope video hosting CDN
-ognihome.com      # OGNI HOME resident portal
-saas-support.com @ads # CDN/infrastructure for Envybox
-targetads.io @ads # Advertising verification platform
-whitesaas.com @ads # White-label product of Envybox
-yourgood.app      # CRM for small business
-
-## COMSS.ONE "Computer Security Software Russia"
-comss.club
-comss.info
-comss.me
-comss.net
-comss.news
-comss.one
-comss.online
-comss.org
-comss.ru
-
-## Genotek
-eligens.cl
-eligens.com.br
-eligens.io
-genetic-technologies.am
-genotek.am
-genotek.health
-genotek.ru
-
-## Ideco, NGFW developer
-ideco.dev
-ideco.ru
-idecosoftware.ru
+3ebra.net             # Zebra Net Bureau, web development agency
+flomni.com            # Omnichannel communications platform
+flocktory.com @ads    # Marketing personalization platform
+kinescopecdn.net      # Kinescope video hosting CDN
+ognihome.com          # OGNI HOME resident portal
+targetads.io @ads     # Advertising verification platform
+yourgood.app          # CRM for small business
